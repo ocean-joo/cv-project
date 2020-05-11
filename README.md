@@ -8,7 +8,7 @@
 Mask-RCNN을 이용해서 피사체의 segmentation mask를 찾은 후, 해당하지 않는 부분을 블러링하는 식으로 아웃 포커싱을 따라했습니다.
 openCV에서 제공하는 Mask-RCNN을 사용하니 반드시 버전 3.4.5 이상을 사용해주세요.
 
-**[예시]**
+### **[예시]**
 
 ##### [원본1]
 
@@ -19,6 +19,8 @@ openCV에서 제공하는 Mask-RCNN을 사용하니 반드시 버전 3.4.5 이�
 <img src="/img/out2.png" width="450px" height="450px" title="out2" alt="out2"></img><br/>
 
 
+
+
 ##### [원본2]
 
 <img src="/img/image3.jpeg" width="450px" height="450px" title="image3" alt="image3"></img><br/>
@@ -26,6 +28,7 @@ openCV에서 제공하는 Mask-RCNN을 사용하니 반드시 버전 3.4.5 이�
 ##### [아웃풋2]
 
 <img src="/img/out3.png" width="450px" height="450px" title="out3" alt="out3"></img><br/>
+
 
 
 
