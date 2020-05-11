@@ -9,17 +9,32 @@ Mask-RCNN을 이용해서 피사체의 segmentation mask를 찾은 후, 해당�
 openCV에서 제공하는 Mask-RCNN을 사용하니 반드시 버전 3.4.5 이상을 사용해주세요.
 
 **[예시]**
+
+##### [원본1]
+
 <img src="/img/image2.jpeg" width="450px" height="450px" title="image2" alt="image2"></img><br/>
+
+##### [아웃풋1]
+
 <img src="/img/out2.png" width="450px" height="450px" title="out2" alt="out2"></img><br/>
 
 
+##### [원본2]
 
 <img src="/img/image3.jpeg" width="450px" height="450px" title="image3" alt="image3"></img><br/>
+
+##### [아웃풋2]
+
 <img src="/img/out3.png" width="450px" height="450px" title="out3" alt="out3"></img><br/>
 
 
 
+##### [원본3]
+
 <img src="/img/image4.jpeg" width="450px" height="450px" title="image4" alt="image4"></img><br/>
+
+##### [아웃풋3]
+
 <img src="/img/out4.png" width="450px" height="450px" title="out4" alt="out4"></img><br/>
 
 
